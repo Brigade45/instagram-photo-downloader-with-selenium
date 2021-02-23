@@ -4,6 +4,7 @@ Takip ettiğiniz veya profili gizli olmayan kişilerin tüm fotoğraflarını in
 Requirements:
 
 #pip install selenium
+
 #pip install urllib
 
 Selenium requires a driver to interface with the chosen browser.
