@@ -1,7 +1,8 @@
 # instagram-photo-downloader-with-selenium
 Takip ettiğiniz veya profili gizli olmayan kişilerin tüm fotoğraflarını indirmenizi sağlar.
 
------Requirement-----
+Requirements:
+
 #pip install selenium
 #pip install urllib
 
